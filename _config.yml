@@ -166,29 +166,11 @@ analytics:
 ##########################################################################
 menus:
   - name: Home
-    url: "#"
-    children:
-      - name: Home version 1
-        url: "/"
-      - name: Home version 2
-        url: "/index-2/"
+    url: "/"
   - name: About
     url: /about/
-  - name: Pages
-    url: "#"
-    children:
-      - name: Service
-        url: "/service/"
-      - name: "Our Projects"
-        url: "/work/"
-      - name: "Our Team"
-        url: "/team/"
-      - name: "404"
-        url: "/404.html"
   - name: Blog
     url: "/blog/"
-  - name: Contact
-    url: /contact/
 
 ##########################################################################
 ######################## socials profile #################################
@@ -293,8 +275,6 @@ hero1:
   title: Your Expert Web Application Development Partner
   title_link: "/work/"
   title_text: Explore More <i class="icofont-long-arrow-right"></i>
-  video_link: https://www.youtube.com/watch?v=ku6dEtynrRI
-  video_text: <i class="fas fa-play"></i> <span class="how-txt">How we work</span>
 hero2:
   intro: We’re Help Growing Your Business.
   right_img: assets/img/header/hdr-3.png
